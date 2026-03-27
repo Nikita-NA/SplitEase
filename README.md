@@ -44,14 +44,8 @@ Add the same environment variables in Vercel Project Settings, then deploy.
 
 ## Demo video
 
-Video file: `SplitEase_video.mp4`
-
-If you add `SplitEase_video.mp4` to the repo root, you can reference it like:
-
-[SplitEase_video.mp4](./SplitEase_video.mp4)
-
 <video
-  src="./SplitEase_video.mp4"
+  src="https://github.com/Nikita-NA/SplitEase/raw/main/SplitEase_video.mp4"
   controls
   autoplay
   muted
