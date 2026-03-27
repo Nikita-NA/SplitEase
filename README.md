@@ -50,3 +50,13 @@ If you add `SplitEase_video.mp4` to the repo root, you can reference it like:
 
 [SplitEase_video.mp4](./SplitEase_video.mp4)
 
+<video
+  src="./SplitEase_video.mp4"
+  controls
+  autoplay
+  muted
+  loop
+  playsinline
+  style="max-width: 100%; height: auto; margin-top: 12px;"
+></video>
+
