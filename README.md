@@ -42,11 +42,10 @@ Live app: https://splitwise-clone-project-liart.vercel.app
 
 Add the same environment variables in Vercel Project Settings, then deploy.
 
-## Demo video
+## Demo
 
 <video
-  src="https://github.com/Nikita-NA/SplitEase/raw/main/SplitEase_video.mp4"
-  controls
+  src="https://github.com/Nikita-NA/SplitEase/raw/main/demo_gif.mp4"
   autoplay
   muted
   loop
