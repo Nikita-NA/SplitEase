@@ -38,5 +38,15 @@ Open `http://localhost:3000`.
 
 ## Deployment (Vercel)
 
+Live app: https://splitwise-clone-project-liart.vercel.app
+
 Add the same environment variables in Vercel Project Settings, then deploy.
+
+## Demo video
+
+Video file: `SplitEase_video.mp4`
+
+If you add `SplitEase_video.mp4` to the repo root, you can reference it like:
+
+[SplitEase_video.mp4](./SplitEase_video.mp4)
 
